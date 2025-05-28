@@ -1,0 +1,10 @@
+C:\Users\Muhammad Sufyan\Desktop\Trading Game\Trading Game\bin\Debug\Trading Game.exe.config
+C:\Users\Muhammad Sufyan\Desktop\Trading Game\Trading Game\bin\Debug\Trading Game.exe
+C:\Users\Muhammad Sufyan\Desktop\Trading Game\Trading Game\bin\Debug\Trading Game.pdb
+C:\Users\Muhammad Sufyan\Desktop\Trading Game\Trading Game\obj\Debug\Trading Game.csproj.AssemblyReference.cache
+C:\Users\Muhammad Sufyan\Desktop\Trading Game\Trading Game\obj\Debug\Trading_Game.Form1.resources
+C:\Users\Muhammad Sufyan\Desktop\Trading Game\Trading Game\obj\Debug\Trading_Game.Properties.Resources.resources
+C:\Users\Muhammad Sufyan\Desktop\Trading Game\Trading Game\obj\Debug\Trading Game.csproj.GenerateResource.cache
+C:\Users\Muhammad Sufyan\Desktop\Trading Game\Trading Game\obj\Debug\Trading Game.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Sufyan\Desktop\Trading Game\Trading Game\obj\Debug\Trading Game.exe
+C:\Users\Muhammad Sufyan\Desktop\Trading Game\Trading Game\obj\Debug\Trading Game.pdb
